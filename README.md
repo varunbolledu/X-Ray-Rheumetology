@@ -1,9 +1,8 @@
 # X-Ray-Rheumetology
 # 📌 varunbolledu GitHub Projects
 
-## 🚀 Project List
 
-### 1️⃣ X-Ray Rheumatology
+### X-Ray Rheumatology
 **Description:** This project focuses on analyzing X-ray images to detect rheumatological conditions such as arthritis using deep learning techniques. The model is trained to identify patterns in medical imaging, assisting healthcare professionals in diagnosing diseases more efficiently.
 
 **Features:**
